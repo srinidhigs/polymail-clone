@@ -1,0 +1,356 @@
+.above-bg{
+  background-image: url("main-bg.jpg");
+  margin-top: -65px;
+  background-size: cover;
+}
+
+.heading {
+  text-align: center;
+  color: white;
+  margin-top: 250px ; 
+  font-family: 'LatoWebSemibold';
+  font-size: 46px; 
+  line-height: 66px;
+}
+
+
+.caption{
+  text-align: center;
+  color: white;
+  font-size: 24px;
+  padding-bottom: 33px;
+
+}
+
+.mailid{
+  margin-left: 390px;
+  height: 40px;
+  width: 240px;
+  border-radius: 13px;
+  font-size: 23px;
+  padding: 22px;
+}
+
+
+
+.butn{
+    width: 170px;
+    height: 42px;
+    background-color: #E55482;
+    border-radius: 13px;
+    color: white;
+    font-size: 19px;
+    padding-right: 20px;
+    height: 48px;
+    margin-top: -9px;
+}
+
+.btn:hover{
+  color: black;
+  background-color: #fff;
+}
+
+.inbox-image{
+  height: 570px;
+}
+.main-image{
+  margin-top: 70px;
+  margin-left: 74px;
+}
+
+.features{
+    margin-top: 29px;
+    margin-right: 100px;
+}
+
+.navbar-brand{
+  margin-top: 13px;
+}
+
+.logo{
+    width: 44px;
+    margin-top: 11px;
+    margin-left: -156px;
+}
+
+.sign-up{
+    display:inline;
+    width: 176px;
+    height: 44px;
+    padding: 10px;
+    border-radius: 5px;
+    background-color: #ffffff;
+    color: blue;
+  }
+ 
+.sign-up:hover{
+   background-color: #E55482;
+   color: white;
+  }
+
+.feature{
+  padding: 43px;
+}
+
+ .navbar-right{
+    margin-top: -18px;
+    margin-right: -147px;
+ }
+
+ .navbar-fixed-top{
+  background-color: white;
+ }
+
+ .block1{
+    margin-left: 60px;
+    padding-top: 90px;
+    font-family: 'LatoWebSemibold';
+    font-size: 36px;
+    line-height: 50px;
+}
+
+.block1-2{
+  display: block;
+  font-size: 16px;
+  line-height: 24px;
+  font-family: 'latoweb';
+}
+
+.link1{
+  font-size: 16px;
+  line-height: 24px;
+  font-family: 'LatoWebSemibold';
+}
+
+.redesign-img{
+    width: 613px;
+    margin-left: 147px;
+}
+
+
+.block1-3{ 
+  display: block;
+  font-size: 16px;
+  line-height: 24px;
+  font-family: 'latoweb';
+}
+
+.co-founder{
+  font-family: 'latowebbold';
+  font-weight: bolder;
+}
+
+.below-bg{
+  padding-top: 95px;
+}
+
+.main-bg2{
+  width: 1286px;
+  height: 1095px;
+
+}
+
+.bg-cover{
+  color: #253139;
+  background-size: cover;
+}
+
+.img-stucy{
+    width: 481px;
+    margin-top: -1169px;
+    margin-left: 90px;
+}
+
+.stay{
+    display: block;
+    margin-left: 250px;
+    margin-top: -896px;
+    color: white;
+}
+
+.stay1{
+  font-size: 36px;
+  line-height: 50px;
+  font-family: 'LatoWebSemibold';
+  padding-bottom: 35px
+}
+
+.stay2{
+    font-size: 16px;
+    line-height: 24px;
+    padding-bottom: 35px;
+}
+
+.stay3{
+  font-size: 16px;
+  line-height: 24px;
+  font-family: 'LatoWeb';
+  padding-right: 128px;
+}
+
+.seam{
+    display: block;
+    color: black;
+    margin-left: 90px;
+}
+
+.seam1{
+    font-size: 36px;
+    line-height: 50px;
+    font-family: 'LatoWebSemibold';
+    padding-bottom: 35px;
+}
+
+
+.seam2{
+    font-size: 16px;
+    line-height: 24px;
+    font-family: 'LatoWebSemibold';
+    padding-bottom: 35px;
+}
+
+.seam3{
+    font-size: 16px;
+    line-height: 24px;
+    font-family: 'LatoWebSemibold';
+    padding-bottom: 35px;
+}
+
+.social{
+    width: 594px;
+    margin-left: 119px;
+    margin-top: 106px;
+  }
+
+  hr{
+    border-top: 2px solid;
+  }
+  
+  .people{
+    text-align: center;
+    padding-top: 88px;
+    padding-bottom: 95px;
+  }
+
+  .glyphicon-heart{
+    color: red;
+  }
+
+.below-sign-up{
+    margin-top: 150px;
+    padding-bottom: 120px;
+}
+
+.tweet{
+  width: 363px;
+  height: 200px;
+  border: 2px solid #eeeeee;
+  margin-left: 60px;
+  padding-left: 75px;
+}
+
+a:hover{
+  text-decoration: none;
+}
+
+.men-pics{
+    margin-left: -66px;
+    margin-bottom: -92px;
+    border-radius: 13px;
+}
+  
+.follow{
+  float: right;
+  background-color: white;
+  margin-top: -87px;
+  margin-right: 8px;
+}
+
+.follow:hover{
+  background-color: #55ACEE;
+  color: white;
+}
+
+.people1{
+  font-size: 16px;
+}
+
+.co{
+  background-image: url("main-bg.jpg");
+  background-size: cover;
+  margin-top: 118px;
+}
+
+.heading-2{
+    text-align: center;
+    color: white;
+}
+
+.caption-2{
+  text-align: center;
+  color: white;
+}
+
+.last{
+  background-color: #253139;
+  height: 371px;
+}
+
+.foot{
+    color: white;
+    margin-top: 0px;
+    padding-top: 91px;
+    margin-left: 125px;
+}
+
+.foot-name{
+  font-size: 20px;
+  line-height: 20px;
+}
+
+.logo-below{
+    width: 31px;
+    margin-left: -38px;
+    margin-bottom: -69px;
+  }
+
+  .list1{
+    margin-top: 107px;
+    margin-left: 80px;
+    font-size: 17px;
+  }
+
+  .company{
+    color: white;
+    padding-bottom: 20px;
+    list-style: none;
+    margin-left: 11px;
+  }
+
+  .contact{
+    color: white;
+    list-style: none;
+    margin-left: 10px;
+    padding-bottom: 20px;
+  }
+
+  .list2{
+    float: right;
+    margin-top: -70px;
+    font-size: 17px;
+  }
+
+  .foot-line{
+    color: #7E8F9F;
+    width: 1151px;
+    margin-top: 100px;
+}
+
+.heart{
+  color: #ffffff;
+}
+
+.copyrights{
+   color:white;
+   margin-left: 67px;
+}
